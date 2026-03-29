@@ -1,7 +1,5 @@
 # Network Robustness in Scale-Free Networks
 
-Designing robust scale-free networks under targeted attacks using local information.
-
 Based on the report: "Designing robust scale-free networks under targeted link
 attack using local information"
 
