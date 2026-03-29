@@ -2,7 +2,8 @@
 
 Designing robust scale-free networks under targeted attacks using local information.
 
-Based on the report: :contentReference[oaicite:0]{index=0}
+Based on the report: "Designing robust scale-free networks under targeted link
+attack using local information"
 
 ---
 
@@ -105,44 +106,21 @@ Constraint: Node degrees remain unchanged.
 
 ## Results and Visualizations
 
-### Degree Distribution
-![Degree Distribution](images/Screenshot from 2026-03-29 16-45-46.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-45-46.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-46-13.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-46-32.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-46-55.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-47-06.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-47-28.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-47-41.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-47-57.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-48-10.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-48-26.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-48-50.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-49-07.png)
+![Image](images/Screenshot%20from%202026-03-29%2016-49-22.png)
 
-### Centrality Distribution
-![Centrality Distribution](images/Screenshot from 2026-03-29 16-46-13.png)
-
-### Clustering Coefficient
-![Clustering Coefficient](images/Screenshot from 2026-03-29 16-46-32.png)
-
-### Network Visualization (BA)
-![Network Visualization](images/Screenshot from 2026-03-29 16-46-55.png)
-
-### Community Structure
-![Community Structure](images/Screenshot from 2026-03-29 16-47-06.png)
-
-### Edge Attack Robustness (Original)
-![Edge Attack](images/Screenshot from 2026-03-29 16-47-28.png)
-
-### Optimized vs Original (Edge Attack)
-![Optimized vs Original](images/Screenshot from 2026-03-29 16-47-41.png)
-
-### Node Attack Robustness
-![Node Attack](images/Screenshot from 2026-03-29 16-47-57.png)
-
-### Edge vs Node Comparison
-![Comparison](images/Screenshot from 2026-03-29 16-48-10.png)
-
-### Multi-Model Node Attack Comparison
-![Multi Model](images/Screenshot from 2026-03-29 16-48-26.png)
-
-### Additional Analysis 1
-![Analysis 1](images/Screenshot from 2026-03-29 16-48-50.png)
-
-### Additional Analysis 2
-![Analysis 2](images/Screenshot from 2026-03-29 16-49-07.png)
-
-### Final Summary Plot
-![Final Plot](images/Screenshot from 2026-03-29 16-49-22.png)
+---
 
 ## Applications
 
